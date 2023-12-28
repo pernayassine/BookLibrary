@@ -12,4 +12,4 @@ Prerequisites
  Usage
 1. Clone the repository: `git clone https://github.com/pernayassine/BookLibrary.git`
 2. Navigate to the project directory: `cd booklibrary`
-3. Run the script: `./search_books.sh` or './sorted/sh'
+3. Run the script: `./searchbook.sh` or './sorted/sh'
