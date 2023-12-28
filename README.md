@@ -8,7 +8,7 @@ This project uses bash to search for a book in open library using its API
    - Perform a sorted search based on criteria such as relevance, newness, popularity, rating, publish date, or number of editions.
 
 Prerequisites
-- Ensure that you have `curl` downloaded and available in your Bash environment.
+- Ensure that you have `curl`  and `jq` downloaded and available in your Bash environment.
  Usage
 1. Clone the repository: `git clone https://github.com/pernayassine/BookLibrary.git`
 2. Navigate to the project directory: `cd booklibrary`
