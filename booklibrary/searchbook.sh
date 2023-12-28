@@ -8,6 +8,6 @@ echo "please enter the book you want to search for : "
 read input
 output=$(curl -s "https://openlibrary.org/search.json?q=$input")
 echo "Here is what I found : "
-echo "$output"
+echo "$output" | jq .
 }
 searchBook
